@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+  <Actions category="Scripts">
+	  <text>Twenty Brushes</text>
+
+	  <Action name="twenty_brushes">
+      <icon></icon>
+	  <text>Twenty Brushes</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>0</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut></shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+    
+    <Action name="activate_preset_1">
+      <icon></icon>
+      <text>Activate Brush Preset 1</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+1</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_2">
+      <icon></icon>
+      <text>Activate Brush Preset 2</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+2</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_3">
+      <icon></icon>
+      <text>Activate Brush Preset 3</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+3</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_4">
+      <icon></icon>
+      <text>Activate Brush Preset 4</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+4</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_5">
+      <icon></icon>
+      <text>Activate Brush Preset 5</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+5</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_6">
+      <icon></icon>
+      <text>Activate Brush Preset 6</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+6</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_7">
+      <icon></icon>
+      <text>Activate Brush Preset 7</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+7</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_8">
+      <icon></icon>
+      <text>Activate Brush Preset 8</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+8</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_9">
+      <icon></icon>
+      <text>Activate Brush Preset 9</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+9</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+    <Action name="activate_preset_0">
+      <icon></icon>
+      <text>Activate Brush Preset 0</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags></activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+0</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+	<Action name="activate_preset_10">
+		<icon></icon>
+		<text>Activate Brush Preset 10</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+0</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_11">
+		<icon></icon>
+		<text>Activate Brush Preset 11</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+1</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_12">
+		<icon></icon>
+		<text>Activate Brush Preset 12</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+2</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_13">
+		<icon></icon>
+		<text>Activate Brush Preset 13</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+3</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_14">
+		<icon></icon>
+		<text>Activate Brush Preset 14</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+4</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_15">
+		<icon></icon>
+		<text>Activate Brush Preset 15</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+5</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_16">
+		<icon></icon>
+		<text>Activate Brush Preset 16</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+6</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_17">
+		<icon></icon>
+		<text>Activate Brush Preset 17</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+7</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_18">
+		<icon></icon>
+		<text>Activate Brush Preset 18</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+8</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+	<Action name="activate_preset_19">
+		<icon></icon>
+		<text>Activate Brush Preset 19</text>
+		<whatsThis></whatsThis>
+		<toolTip></toolTip>
+		<iconText></iconText>
+		<activationFlags></activationFlags>
+		<activationConditions>0</activationConditions>
+		<shortcut>ctrl+9</shortcut>
+		<isCheckable>false</isCheckable>
+		<statusTip></statusTip>
+	</Action>
+	
+  </Actions>
+</ActionCollection>
